@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-MinJect is a simple dependency injection framework, based on a now-defunct repo from Wooga. It focuses on being minimalistic and easy to use.
+MinJect is a simple dependency injection framework, forked from a now-defunct repo from Wooga. It focuses on being minimalistic and easy to use.
 
 <!-- GETTING STARTED -->
 ## Getting Started
