@@ -1,0 +1,18 @@
+{
+  "name": "com.ninito.minject",
+  "version": "1.0.0",
+  "displayName": "MinJect",
+  "description": "A minimalistic, easy-to-understand dependency injection framework for Unity",
+  "unity": "2021.1",
+  "keywords": [
+    "frameworks",
+    "dependency injection",
+    "injection"
+  ],
+  "author": {
+    "name": "Wooga, Paulo Oliveira",
+    "email": "paulo@ninito.me",
+    "url": "https://ninito.me"
+  },
+  "type": "framework"
+}
