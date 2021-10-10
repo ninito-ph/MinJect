@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ninito-ph/MinJect">
-    <img src="https://i.imgur.com/yfzrzpk.png" alt="MinJect" width="400" height="400">
+    <img src="https://i.imgur.com/bMiWI9w.png" alt="MinJect" width="406" height="306">
     <p align="center">
     <img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/ninito-ph/MinJect?label=version&style=for-the-badge">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ninito-ph/MinJect?label=size&style=for-the-badge">
